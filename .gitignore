@@ -1,0 +1,3 @@
+## we don't want venv or .idea folders
+venv/
+.idea/
